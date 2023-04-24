@@ -1,0 +1,22 @@
+<h4>Registro de Nacionalidad</h4>
+<mat-form-field appearance="fill">
+  <mat-label>Seleccione la nacionalidad</mat-label>
+  <mat-select>
+    <mat-option *ngFor="let province of Provincias" [value]="province.Provincias">
+      {{province.provincia}}
+    </mat-option>
+  </mat-select>
+</mat-form-field>
+<!-- <table>
+  <thead>
+    <th scope="col">
+      NOMBRE
+    </th>
+  </thead>
+  <tbody *ngFor="let province of Provincias">
+    <tr>
+      <td scope="row">{{province.provincia}}</td>
+    </tr>
+
+  </tbody>
+</table> -->
