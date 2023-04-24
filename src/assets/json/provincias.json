@@ -1,51 +1,14 @@
 [
-{
- 
-    "provincia": "AZUAY",
-    "cantones": {
-      "101": {
-        "canton": "CUENCA",
-        "parroquias": {
-          "10101": "BELLAVISTA",
-          "10102": "CAÑARIBAMBA",
-          "10103": "EL BATÁN",
-          "10104": "EL SAGRARIO",
-          "10105": "EL VECINO",
-          "10106": "GIL RAMÍREZ DÁVALOS",
-          "10107": "HUAYNACÁPAC",
-          "10108": "MACHÁNGARA",
-          "10109": "MONAY",
-          "10110": "SAN BLAS",
-          "10111": "SAN SEBASTIÁN",
-          "10112": "SUCRE",
-          "10113": "TOTORACOCHA",
-          "10114": "YANUNCAY",
-          "10115": "HERMANO MIGUEL",
-          "10150": "CUENCA",
-          "10151": "BAÑOS",
-          "10152": "CUMBE",
-          "10153": "CHAUCHA",
-          "10154": "CHECA (JIDCAY)",
-          "10155": "CHIQUINTAD",
-          "10156": "LLACAO",
-          "10157": "MOLLETURO",
-          "10158": "NULTI",
-          "10159": "OCTAVIO CORDERO PALACIOS (SANTA ROSA)",
-          "10160": "PACCHA",
-          "10161": "QUINGEO",
-          "10162": "RICAURTE",
-          "10163": "SAN JOAQUÍN",
-          "10164": "SANTA ANA",
-          "10165": "SAYAUSÍ",
-          "10166": "SIDCAY",
-          "10167": "SININCAY",
-          "10168": "TARQUI",
-          "10169": "TURI",
-          "10170": "VALLE",
-          "10171": "VICTORIA DEL PORTETE (IRQUIS)"
-        }
-     
-      }
-    }
-}
+  {
+      "provincia": "AZUAY",
+      "provincia": "EL ORO",
+      "provincia": "LOJA",
+      "provincia": "GALAPAGOS",
+      "provincia": "GUAYAS",
+      "provincia": "PICHINCHA",
+      "provincia": "ZAMORA CHINCHIPE",
+      "provincia": "COTOPAXI",
+      "provincia": "CARCHI",
+      "provincia": "CHIMBORAZO"
+  }
 ]
