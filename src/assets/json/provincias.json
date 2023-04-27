@@ -1,14 +1,9 @@
 [
   {
-      "provincia": "AZUAY",
-      "provincia": "EL ORO",
-      "provincia": "LOJA",
-      "provincia": "GALAPAGOS",
-      "provincia": "GUAYAS",
-      "provincia": "PICHINCHA",
-      "provincia": "ZAMORA CHINCHIPE",
-      "provincia": "COTOPAXI",
-      "provincia": "CARCHI",
-      "provincia": "CHIMBORAZO"
+      "provincia":[
+          "AZUAY", 
+          "EL ORO",
+          "LOJA"
+      ]
   }
 ]

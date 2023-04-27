@@ -9,11 +9,17 @@ import { CmbnacionalidadComponent } from './cmbnacionalidad/cmbnacionalidad.comp
  ///Material
  import {MatFormFieldModule} from '@angular/material/form-field';
  import {MatSelectModule} from '@angular/material/select';
+import { ContadorComponent } from './contador/contador.component';
+import { HeroesComponent } from './hero/heroes/heroes.component';
+import { ListComponent } from './hero/list/list.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    CmbnacionalidadComponent
+    CmbnacionalidadComponent,
+    ContadorComponent,
+    HeroesComponent,
+    ListComponent
   ],
   imports: [
     BrowserModule,
